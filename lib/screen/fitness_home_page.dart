@@ -38,7 +38,7 @@ class FitnessHomePage extends StatelessWidget {
               style: TextStyle(
                 height: 1,
                 fontWeight: FontWeight.bold,
-                fontSize: 40,
+                fontSize: 30,
               ),
             ),
             const SizedBox(
